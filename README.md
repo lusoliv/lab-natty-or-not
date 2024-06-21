@@ -24,19 +24,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 📒 Descrição
 Breve descrição do seu projeto
+A motivação do projeto nasceu de um desejo de uma futura viagem para a Europa em 29 dias de férias.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizada a plataforma Beautiful.AI para criação dos slides.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O conteúdo foi criado com os seguintes passos:
+1. Acessar o site https://www.beautiful.ai/ e clicar em try it free.
+2. Criar conta e associar cartão de créditos.
+3. Abrir menu Generate with IA e digitar no prompt: "Desenvolver roteiro de viagem de 19 dias para  2 pessoas pela Europa saindo da cidade do Rio de Janeiro com a seguinte ordem de cidades: Lisboa, Barcelona, Roma, Florença, Veneza, Amsterdã, Paris, Londres e Lisboa novamente. A chegada e a saída da Europa serão por Lisboa. O Roteiro deve incluir os pontos turísticos a serem visitados por dia (de preferência em horários de menor movimento de cada). Deve conter planejamento de melhores custo/benefício de locomoção entre as cidades: trem, ônibus ou avião. Para cada slide, incluir amostras de imagens dos locais a serem vistitados. A apresentação deve conter 1 slide para cada destino."
+
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+O resultado foi bastante interessante com slides bem diversificados.
+![image](https://github.com/lusoliv/lab-natty-or-not/assets/165487131/f409a357-875d-4900-ac23-148252cec305)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
 
 ### Exemplos e Insigths
 
